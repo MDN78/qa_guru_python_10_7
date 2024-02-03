@@ -1,5 +1,6 @@
 import os
 
+
 class Path:
     current_file = os.path.abspath('__file__')
     current_directory = os.path.dirname(current_file)
@@ -9,3 +10,4 @@ class Path:
     files_list = os.listdir(files_directory)
 
 
+path_file = Path()
