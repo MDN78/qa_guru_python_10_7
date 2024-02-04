@@ -10,3 +10,4 @@
 
 [Встроенные модули и фнукции](https://github.com/MDN78/qa_guru_python_10_7/wiki)
 
+[Работа с файлами](https://github.com/MDN78/qa_guru_python_10_7/wiki)
